@@ -431,7 +431,7 @@ theread3.setDaemon(True)
 main_win = tk.Tk()
 
 #メインウィンドウのタイトルを変更
-main_win.title("ふぁいる共有ソフト")
+main_win.title("EasyFileShare")
 
 #メインウィンドウのサイズを固定
 main_win.resizable(width=False,height=False)
